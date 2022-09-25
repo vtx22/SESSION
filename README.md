@@ -1,2 +1,2 @@
 # SESSION
-SESSION - Simple Embedded Solder Station
+SESSION - Simple Embedded Soldering Station
